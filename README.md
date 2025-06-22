@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zaid AKmal</h1>
 <h3 align="center">I'm a passionate developer, IT enthusiast, and coffee lover.</h3>
 
+![github-header-image](https://github.com/user-attachments/assets/8f7d5c46-0916-4cb2-8c7c-6a0e94288267)
+
 - ⚡ Fun fact **I'm still in high school**
 
 <h3 align="left">Connect with me:</h3>
